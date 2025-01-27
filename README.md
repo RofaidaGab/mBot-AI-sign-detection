@@ -1,0 +1,1 @@
+You start this by running the python file after uploading arduino code to the mbot. C-ROAD AND C-ROAD END SIGNS WERE NOT USED. The ai model still detects them, but they werent used and the car relies solely on fixed diameter values 30 and 100 for turns and on line following sensors! You may adjust the code to your liking for using c-road signs.
