@@ -3,6 +3,8 @@
 An autonomous robot car that detects traffic signs in real time using a trained TensorFlow/Keras model and responds with physical driving actions. Built for the **Intro to Computer & Electrical Engineering** course (first term project) at Istanbul Medipol University.
 
 ---
+## Demo
+> ![Demo](demo/demo.gif)
 
 ## How It Works
 
